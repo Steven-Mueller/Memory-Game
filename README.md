@@ -17,7 +17,7 @@
 
 ## How to play ?
 
-1. Download [ZIP](https://github.com/Steven-Mueller/Memory/archive/refs/heads/main.zip) and extract
+1. Download [ZIP](https://github.com/Steven-Mueller/Memory-Game/archive/refs/heads/main.zip) and extract
 2. Install [Node.js](https://nodejs.org/en/download/current)
 3. Open Terminal or CMD/Powershell (depending on your OS) in extracted folder
 4. Use `npm i` command in console to get needed dependencies
